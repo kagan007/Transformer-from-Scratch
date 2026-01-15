@@ -1,0 +1,1 @@
+Implemented a transformer language model from scratch in PyTorch, including causal self-attention, residual connections, layer normalization, and autoregressive decoding, guided by the GPT-2 and GPT-3 papers.
